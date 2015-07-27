@@ -1,6 +1,8 @@
 
 # Syllabus
 
+This lecture was originally designed for 10 weeks, but can be resized if needed.
+
 ## Introduction
 
 Apache Hadoop is evolving as the Big Data platform on top of which multiple building
@@ -23,12 +25,14 @@ Prior knowledge of Distributed Systems, Apache Hadoop or NoSQL is not required.
 
 1.  The Hadoop ecosystem
 2.  HDFS and MapReduce
-3.  Yarn
+3.  MapReduce and Yarn
 4.  Pig
 5.  Hive
-6.  ETL (extract, transform, load)
+6.  ETL (Extract, Transform, Load)
 7.  HBase
 8.  Spark
+9.  Kafka
+10. Preparation to Final Exam
 
 ## Bibliography/webography
 
