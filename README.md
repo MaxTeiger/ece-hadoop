@@ -42,7 +42,7 @@ programming is not necessary.
 5.  ETL (Extract, Transform, Load)
 6.  HBase
 7.  Spark
-8.  Kafka
+8.  Realtime data collection: Kafka, Flume
 9.  Multi-tenancy: security, resource allocation, data governance
 10. Final Exam
 
