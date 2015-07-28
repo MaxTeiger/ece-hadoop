@@ -43,7 +43,7 @@ programming is not necessary.
 6.  HBase
 7.  Spark
 8.  Kafka
-9.  Lambda Architecture
+9.  Multi-tenancy: security, resource allocation, data governance
 10. Final Exam
 
 ## Bibliography/webography
