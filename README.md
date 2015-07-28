@@ -39,7 +39,7 @@ programming is not necessary.
 2.  HDFS and MapReduce
 3.  MapReduce and YARN
 4.  Pig & Hive
-5.  ETL (Extract, Transform, Load)
+5.  Orchestration (Oozie) / ETL (Extract, Transform, Load)
 6.  HBase
 7.  Spark
 8.  Realtime data collection: Kafka, Flume
